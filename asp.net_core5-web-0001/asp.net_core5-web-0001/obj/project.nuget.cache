@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KGvQx0H0AiQPvGaKyvbi8vjvXfo8a8abm+SThMnJvLqUQrn5sKrl9ke7Lp+tueZ0C93v3xkyZPeZoRJK0MKN1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yutta\\source\\repos\\asp.net_core5-web-0001\\asp.net_core5-web-0001\\asp.net_core5-web-0001.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yutta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
